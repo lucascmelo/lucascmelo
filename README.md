@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at @forma-ai as Frontend Developer and at Lobbea as Fullstack Developer
+- 🔭 I’m currently working at Forma AI as Frontend Developer and at Lobbea as Fullstack Developer
 - 🌱 I’m currently learning Software Architecture
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
