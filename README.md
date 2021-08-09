@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Lobbea Inc as Fullstack Developer (ReactJS, Node.JS)
-- 🌱 I’m currently learning Software Architecture, ReactJS
+- 🔭 I’m currently working at @forma-ai as Frontend Developer and at Lobbea as Fullstack Developer
+- 🌱 I’m currently learning Software Architecture
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Finances, Psicology and Innovation 
